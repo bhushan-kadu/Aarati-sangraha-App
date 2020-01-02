@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3B3B3B</color>
+<!--    <color name="colorPrimary">#00918A</color>-->
+    <color name="colorPrimaryDark">#A4FF755F</color>
+<!--    <color name="colorPrimaryDark">#00574B</color>-->
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorOrange">#F68A4C</color>
+    <color name="icedMint">#FEC64D</color>
+<!--    <color name="icedMint">#B9DFC5</color>-->
+    <color name="appricot">#FA6739</color>
+<!--    <color name="appricot">#FEC64D</color>-->
+</resources>

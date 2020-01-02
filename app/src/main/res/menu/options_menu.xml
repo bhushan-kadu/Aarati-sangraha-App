@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/rateApp"
+        android:title="Rate US"
+        android:icon="@drawable/ic_action_rate"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/shareApp"
+        android:title="Share App"
+        android:icon="@drawable/ic_action_share"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/whatsApp"
+        android:title="Share to WhatsApp"
+        android:icon="@drawable/ic_whatsapp"
+        app:showAsAction="ifRoom" />
+
+</menu>
